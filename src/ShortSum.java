@@ -1,6 +1,7 @@
 /**
  * @author William Mueller
  * #qwerty:P
+ * changes by --maks
  */
 
 import java.util.Scanner;
@@ -19,7 +20,7 @@ public class ShortSum {
 		System.out.print("Please enter another number: ");
 		int num2 = kb.nextInt();
 		
-		System.out.println("The sum of " + num1 + " and " + num2 + " is: " + (num1+num2));
+		System.out.println("The sum of " + num1 + " and " + num2 + " is: " + (num1+num2)); 
 		
 	}
 
